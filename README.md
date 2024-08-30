@@ -21,7 +21,7 @@ Add Task: Adds the text from the entry widget to the listbox.
 Delete Task: Removes the selected task from the listbox.
 Task_List: Add all tasks from the listbox.
 
-# Running the Application
+## Running the Application
 Save the code into a .py file.
 Run the file using a Python interpreter.
 The GUI will launch, and you can start adding, and deleting tasks
