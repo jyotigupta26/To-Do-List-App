@@ -29,3 +29,6 @@ The GUI will launch, and you can start adding, and deleting tasks
 
 ![image](https://github.com/user-attachments/assets/4f8c1c2b-c01b-4eed-b02a-85fb34893729)
 
+
+![image](https://github.com/user-attachments/assets/ed50c9f1-b401-4843-8797-9273aa1ee359)
+
