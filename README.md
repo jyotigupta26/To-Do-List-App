@@ -6,7 +6,7 @@ The application will have the following features:
 2. Delete selected tasks
 3. List of tasks:  Removes the selected task from the listbox
 
-# Explaination
+## Explaination
 1.Importing the module – tkinter
 
 2. Define the Budget Tracker Class
@@ -26,4 +26,6 @@ Save the code into a .py file.
 Run the file using a Python interpreter.
 The GUI will launch, and you can start adding, and deleting tasks
 
+
+![image](https://github.com/user-attachments/assets/4f8c1c2b-c01b-4eed-b02a-85fb34893729)
 
